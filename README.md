@@ -59,7 +59,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/hussien450/hussien450/output/snake.svg" alt="Snake animation" />
-
-###
